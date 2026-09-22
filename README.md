@@ -10,19 +10,19 @@
 
 <br/>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou o **Eduardo**, programador full stack e fundador de uma empresa de desenvolvimento e programação, onde ajudo negócios a tirarem sistemas, sites e automações do papel — do banco de dados até a interface final.
 
 Gosto de resolver problema real: integração com APIs externas, automação de processos e sistemas que realmente entram na rotina de quem usa.
 
-- 🔭 Atualmente construindo soluções sob medida (sistemas web, automações e integrações)
+- Atualmente construindo soluções sob medida (sistemas web, automações e integrações)
 - 🌱 Sempre estudando novas formas de deixar o back e o front mais sólidos
-- 💬 Bora trocar uma ideia sobre projetos, sistemas ou automações
+- Bora trocar uma ideia sobre projetos, sistemas ou automações
 
 <br/>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Gosto de resolver problema real: integração com APIs externas, automação de 
 
 <br/>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <div align="center">
 
@@ -53,13 +53,13 @@ Gosto de resolver problema real: integração com APIs externas, automação de 
   </a>
 -->
 
-🚧 Projetos em atualização — em breve novos cards por aqui.
+Projetos em atualização — em breve novos cards por aqui.
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Gosto de resolver problema real: integração com APIs externas, automação de 
 
 <br/>
 
-## 🏆 Troféus
+## Troféus
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Gosto de resolver problema real: integração com APIs externas, automação de 
 
 <br/>
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 
